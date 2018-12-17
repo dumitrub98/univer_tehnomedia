@@ -25,6 +25,10 @@ body {
     word-break: break-word;
 }
 
+#app-main-container .app-heading:first-child {
+    margin-top: 0;
+}
+
 #video-container {
     display: inline-block;
     height: 100%;
